@@ -1,4 +1,6 @@
-# Hamza Ahmed
+# Mohammed Ahmed
+
+Goes by Hamza.
 
 Student at Assiut University, Egypt. Learning cybersecurity with a focus on SOC and blue team work.
 
