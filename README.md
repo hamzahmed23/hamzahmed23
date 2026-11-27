@@ -14,4 +14,4 @@ Student at Assiut University, Egypt. Learning cybersecurity with a focus on SOC 
 - Red teaming on the side
 
 **Contact**
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/mohammed-ahmed-ba931139a
